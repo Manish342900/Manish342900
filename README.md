@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next**
 
 - 📫 How to reach me **manishpal9566@gmail.com**
 
